@@ -11,6 +11,8 @@ It will also store each person who has their risk calculated in a dynamically al
 */
 
 
+
+
 int main() 
 {
 
