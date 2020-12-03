@@ -56,6 +56,7 @@ public:
     }
     void addPerson(Person p);
     void print();
+    ~personList() { delete[] people; };
 };
 
 
